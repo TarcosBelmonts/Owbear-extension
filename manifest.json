@@ -1,0 +1,8 @@
+{
+  "name": "Owlbear RPG Extension",
+  "version": "1.0.0",
+  "description": "Extensão para gerenciamento de fichas e combate no Owlbear Rodeo.",
+  "author": "Seu Nome",
+  "entry": "index.html",
+  "permissions": []
+}
